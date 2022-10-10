@@ -11,6 +11,7 @@
 		AA10142228F498F50048A115 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA10142128F498F50048A115 /* ContentView.swift */; };
 		AA10142428F498F60048A115 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA10142328F498F60048A115 /* Assets.xcassets */; };
 		AA10142728F498F60048A115 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA10142628F498F60048A115 /* Preview Assets.xcassets */; };
+		AA10142F28F49BEC0048A115 /* ContentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA10142E28F49BEC0048A115 /* ContentModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AA10142128F498F50048A115 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AA10142328F498F60048A115 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA10142628F498F60048A115 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AA10142E28F49BEC0048A115 /* ContentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				AA10141F28F498F50048A115 /* SeleccionImegenesApp.swift */,
+				AA10142E28F49BEC0048A115 /* ContentModel.swift */,
 				AA10142128F498F50048A115 /* ContentView.swift */,
 				AA10142328F498F60048A115 /* Assets.xcassets */,
 				AA10142528F498F60048A115 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				AA10142228F498F50048A115 /* ContentView.swift in Sources */,
 				AA10142028F498F50048A115 /* SeleccionImegenesApp.swift in Sources */,
+				AA10142F28F49BEC0048A115 /* ContentModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
